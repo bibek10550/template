@@ -1,5 +1,3 @@
-https://bibek10550.github.io/Template/
-
 <h1 align="center">Hi 👋, it's Bibek Chand Sah</h1>
 <h3 align="center">Template</h3>
 
